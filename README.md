@@ -1,4 +1,4 @@
 design_pattern
 ==============
 
-Learning Design Pattern 
+Learning Design Pattern.
